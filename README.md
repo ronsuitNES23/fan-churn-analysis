@@ -12,7 +12,7 @@ A production-grade sports analytics project demonstrating ETL pipeline developme
 This project analyzes fan engagement, churn patterns, and customer lifetime value (CLV) for a European football club using a scalable data lakehouse architecture. The pipeline processes 100,000+ fan records through three transformation layers to deliver actionable insights for fan retention strategies.
 
 ### Business Problem
-- **Churn Rate**: ~62% of fans don't renew season tickets
+- **Churn Rate**: Season-ticket renewal rate dropped 12% YoY.
 - **Revenue at Risk**: $180M+ from churned premium tier fans
 - **Challenge**: Identify at-risk fans and optimize reactivation campaigns
 
